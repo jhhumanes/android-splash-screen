@@ -8,5 +8,7 @@ Este código fuente es un ejemplo de implementación moderna de una Splash Scree
 
 La Splash Screen se puede aprovechar para hacer una presentación agradable de la aplicación mientras se realiza el procesamiento inicial necesario para comenzar a trabajar.
 
-![img](./images/splash-screen.png)
-![img](./images/main-activity.png)
+<img src="./images/splash-screen.png" width="300" />
+
+<img src="./images/main-activity.png" width="300" />
+
